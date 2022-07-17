@@ -53,7 +53,22 @@ def location_received(message):
 @bot.message_handler(content_types=["location"])
 def searchnearturet(lat_current,lng_current,message):
     dati=leggidati(FILENAME)
-    bot.send_location(message.chat.id,  lat_current , lng_current)
+    rmb=mindistanceturet(dati,lat_current,lng_current)
+    lat_result=dati[rmb][2]
+    lng_result=dati[rmb][3]
+    bot.send_location(message.chat.id,  lat_result , lng_result)
     bot.send_message(message.chat.id,"Ecco il toret piu' vicino :)")
+
+
+def mindistanceturet(dati,lat_current,lng_current):
+    minima_distanza=pow(pow(lat_current - dati[0][2], 2) + pow(lng_current - dati[0][3], 2), .5)
+    countrmb=0
+    for value in dati:
+        distanza=pow(pow(lat_current - value[2], 2) + pow(lng_current - value[3], 2), .5)
+        if(distanza<minima_distanza):
+            minima_distanza=distanza
+            rmb=countrmb
+        countrmb=countrmb+1
+    return rmb
 
 bot.polling()
