@@ -1,5 +1,5 @@
 import telebot
-FILENAME = 'touretmap.txt'
+FILENAME = 'turetmap.txt'
 
 API_TOKEN = '5567408807:AAGamuBetRhvu2OHik91UmV5sK8AuOzrK9k'
 
@@ -15,14 +15,12 @@ def leggidati(file_name):
     for line in turet_file:
         line=line.strip().split(",")
         value=[]
-        nome=str(line[0])
-        value.append(nome)
-        id=int(line[1])
-        value.append(id)
-        lan=float(line[2])
-        value.append(lan)
-        lng=float(line[3])
+        lng=float(line[0])
         value.append(lng)
+        lan=float(line[1])
+        value.append(lan)
+        nome=str(line[2])
+        value.append(nome)
         dati.append(value)
 
     turet_file.close()
@@ -54,17 +52,20 @@ def location_received(message):
 def searchnearturet(lat_current,lng_current,message):
     dati=leggidati(FILENAME)
     rmb=mindistanceturet(dati,lat_current,lng_current)
-    lat_result=dati[rmb][2]
-    lng_result=dati[rmb][3]
+    lng_result=dati[rmb][0]
+    lat_result=dati[rmb][1]
+    name_result=dati[rmb][2]
     bot.send_location(message.chat.id,  lat_result , lng_result)
     bot.send_message(message.chat.id,"Ecco il toret piu' vicino :)")
+    bot.send_message(message.chat.id,name_result)
+
 
 
 def mindistanceturet(dati,lat_current,lng_current):
-    minima_distanza=pow(pow(lat_current - dati[0][2], 2) + pow(lng_current - dati[0][3], 2), .5)
+    minima_distanza=pow(pow(lat_current - dati[0][0], 2) + pow(lng_current - dati[0][1], 2), .5)
     countrmb=0
     for value in dati:
-        distanza=pow(pow(lat_current - value[2], 2) + pow(lng_current - value[3], 2), .5)
+        distanza=pow(pow(lat_current - value[0], 2) + pow(lng_current - value[1], 2), .5)
         if(distanza<minima_distanza):
             minima_distanza=distanza
             rmb=countrmb
