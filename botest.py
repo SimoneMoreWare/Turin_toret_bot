@@ -8,13 +8,18 @@ bot = telebot.TeleBot(API_TOKEN)
 @bot.message_handler(commands=['help', 'start'])
 def send_welcome(message):
     bot.reply_to(message, """\
-Ciao, per favore mandami la tua posizione per trovarti il toret piu' vicino\
+Ciao, per favore mandami la tua posizione per trovarti il toret piu' vicino📍\
 """)
 
 # Handle all other messages with content_type 'text' (content_types defaults to ['text'])
 @bot.message_handler(func=lambda message: True)
 def echo_message(message):
-    bot.reply_to(message,"""Non posso capirlo, per favore mandami la tua posizione per trovarti il toret piu' vicino\
+    bot.reply_to(message,"""Non posso capirlo, per favore mandami la tua posizione per trovarti il toret piu' vicino📍\
 """)
+    position(message)
+
+def position(message):
+    bot.send_location(547003778, 45.063553, 7.683574)
 
 bot.polling()
+
