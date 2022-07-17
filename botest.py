@@ -16,10 +16,16 @@ Ciao, per favore mandami la tua posizione per trovarti il toret piu' vicino📍\
 def echo_message(message):
     bot.reply_to(message,"""Non posso capirlo, per favore mandami la tua posizione per trovarti il toret piu' vicino📍\
 """)
-    position(message)
-
-def position(message):
-    bot.send_location(547003778, 45.063553, 7.683574)
+ 
+ #in questo modo mando la posizione tramite send_location e per ricavare le latitudini e longitudine utilizzo il campo 'location' e lat o lng ecc...
+ #la parte importante è la prima riga in cui devo specificicare il content_types=["location"]
+@bot.message_handler(content_types=["location"])
+def location_received(message):
+    print(message)
+    bot.send_message(message.chat.id,"Località ricevuta")
+    bot.send_message(message.chat.id,"Ricerca per il toret piu' vicino...")
+    bot.send_location(message.chat.id,  message.location.latitude , message.location.longitude)
+    bot.send_message(message.chat.id,"Ecco il toret piu' vicino :)")
 
 bot.polling()
 
