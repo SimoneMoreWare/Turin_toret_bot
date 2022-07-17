@@ -62,10 +62,10 @@ def searchnearturet(lat_current,lng_current,message):
 
 
 def mindistanceturet(dati,lat_current,lng_current):
-    minima_distanza=pow(pow(lat_current - dati[0][0], 2) + pow(lng_current - dati[0][1], 2), .5)
+    minima_distanza=pow(pow(lat_current - dati[0][1], 2) + pow(lng_current - dati[0][0], 2), .5)
     countrmb=0
     for value in dati:
-        distanza=pow(pow(lat_current - value[0], 2) + pow(lng_current - value[1], 2), .5)
+        distanza=pow(pow(lat_current - value[1], 2) + pow(lng_current - value[0], 2), .5)
         if(distanza<minima_distanza):
             minima_distanza=distanza
             rmb=countrmb
