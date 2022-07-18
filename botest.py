@@ -40,13 +40,13 @@ def send_welcome(message):
 def sendphoto(message):
     bot.send_photo(message.chat.id, 'https://i.pinimg.com/750x/f7/26/63/f726638483f45169631dcfa425261969.jpg')
     bot.reply_to(message, """\
-Ciao, per favore mandami la tua posizione per trovarti il toret piu' vicino📍\
+Ciao, per favore mandami la tua posizione per trovare il toret più' vicino📍\
 """)
 
 # Handle all other messages with content_type 'text' (content_types defaults to ['text'])
 @bot.message_handler(func=lambda message: True)
 def echo_message(message):
-    bot.reply_to(message,"""Non posso capirlo, per favore mandami la tua posizione per trovarti il toret piu' vicino📍\
+    bot.reply_to(message,"""Non riesco a capire, per favore mandami la tua posizione per trovare il toret più vicino📍\
 """)
  
  #in questo modo mando la posizione tramite send_location e per ricavare le latitudini e longitudine utilizzo il campo 'location' e lat o lng ecc...
@@ -54,8 +54,7 @@ def echo_message(message):
 @bot.message_handler(content_types=["location"])
 def location_received(message):
     print(message)
-    bot.send_message(message.chat.id,"Località ricevuta")
-    bot.send_message(message.chat.id,"Ricerca per il toret piu' vicino...")
+    bot.send_message(message.chat.id,"Posizione ricevuta")    
     searchnearturet(message.location.latitude, message.location.longitude,message)
 
 @bot.message_handler(content_types=["location"])
@@ -66,7 +65,7 @@ def searchnearturet(lat_current,lng_current,message):
     lat_result=dati[rmb][1]
     name_result=dati[rmb][2]
     bot.send_location(message.chat.id,  lat_result , lng_result)
-    bot.send_message(message.chat.id,"Ecco il toret piu' vicino :)")
+    bot.send_message(message.chat.id,"Ecco il toret più vicino :)")
     bot.send_message(message.chat.id,name_result)
 
 def mindistanceturet(dati,lat_current,lng_current):
