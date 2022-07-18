@@ -1,7 +1,7 @@
 import telebot
 FILENAME = 'turetmap.txt'
 
-API_TOKEN = 'Insert YOUR API KEY'
+API_TOKEN = '5567408807:AAGamuBetRhvu2OHik91UmV5sK8AuOzrK9k'
 
 bot = telebot.TeleBot(API_TOKEN)
 
@@ -11,6 +11,7 @@ def leggidati(file_name):
         turet_file = open(file_name, 'r')
     except:
         print("errore file ")
+        
     next(turet_file) #salto la prima riga
     for line in turet_file:
         line=line.strip().split(",")
@@ -29,6 +30,15 @@ def leggidati(file_name):
 # Handle '/start' and '/help'
 @bot.message_handler(commands=['help', 'start'])
 def send_welcome(message):
+    bot.reply_to(message,"""Se vi dicessimo che il simbolo di Torino non è la Mole Antonelliana, ma i toret? Cosa sono i "toret"? Ve lo sveliamo subito. 
+    Si tratta delle tipiche fontanelle color verde bottiglia che come bocchettoni d’acqua hanno una testa di toro. Il torèt compare sempre più spesso nei negozi che promuovo i souvenir di Torino accanto ovviamente a quelli raffiguranti la Mole, il grande classico dei gadget.\
+""")
+    sendphoto(message)
+    
+
+@bot.message_handler(commands=['photo'])
+def sendphoto(message):
+    bot.send_photo(message.chat.id, 'https://i.pinimg.com/750x/f7/26/63/f726638483f45169631dcfa425261969.jpg')
     bot.reply_to(message, """\
 Ciao, per favore mandami la tua posizione per trovarti il toret piu' vicino📍\
 """)
@@ -58,8 +68,6 @@ def searchnearturet(lat_current,lng_current,message):
     bot.send_location(message.chat.id,  lat_result , lng_result)
     bot.send_message(message.chat.id,"Ecco il toret piu' vicino :)")
     bot.send_message(message.chat.id,name_result)
-
-
 
 def mindistanceturet(dati,lat_current,lng_current):
     minima_distanza=pow(pow(lat_current - dati[0][1], 2) + pow(lng_current - dati[0][0], 2), .5)
