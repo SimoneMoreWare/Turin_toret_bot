@@ -40,7 +40,7 @@ def send_welcome(message):
 def sendphoto(message):
     bot.send_photo(message.chat.id, 'https://i.pinimg.com/750x/f7/26/63/f726638483f45169631dcfa425261969.jpg')
     bot.reply_to(message, """\
-Ciao, per favore mandami la tua posizione per trovare il toret più' vicino📍\
+Ciao, per favore mandami la tua posizione per trovare il toret più vicino📍\
 """)
 
 # Handle all other messages with content_type 'text' (content_types defaults to ['text'])
