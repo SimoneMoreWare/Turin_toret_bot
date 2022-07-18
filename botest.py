@@ -1,7 +1,7 @@
 import telebot
 FILENAME = 'turetmap.txt'
 
-API_TOKEN = '5567408807:AAGamuBetRhvu2OHik91UmV5sK8AuOzrK9k'
+API_TOKEN = 'Insert YOUR API KEY'
 
 bot = telebot.TeleBot(API_TOKEN)
 
