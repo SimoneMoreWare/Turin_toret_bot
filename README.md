@@ -9,7 +9,11 @@ Manda la tua posizione e riceverai qual è il toret più vicino https://t.me/tur
 Passi per la realizzazione
 
 Creare Bot Telegram con botfather
+
 Scaricare la libreria BotTelgramApi
+
 Creato file txt con le coordinate delle fontane
+
 Creare un semplice algoritmo per calcolare qual è il toret la cui distanza dalla posizione corrente è minima
+
 Caricato il bot su AWS
