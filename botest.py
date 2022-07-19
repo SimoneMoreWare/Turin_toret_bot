@@ -1,7 +1,10 @@
+from asyncio.windows_events import NULL
 import telebot
+from telebot import types
+
 FILENAME = 'turetmap.txt'
 
-API_TOKEN = '<Your token>'
+API_TOKEN = 'Your Token'
 
 bot = telebot.TeleBot(API_TOKEN)
 
@@ -30,9 +33,12 @@ def leggidati(file_name):
 # Handle '/start' and '/help'
 @bot.message_handler(commands=['help', 'start'])
 def send_welcome(message):
-    bot.reply_to(message,"""Se vi dicessimo che il simbolo di Torino non è la Mole Antonelliana, ma i toret? Cosa sono i "toret"? Ve lo sveliamo subito. 
+    markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+    itembtn1 = types.KeyboardButton('Manda La tua posizione', request_location=True)
+    markup.add(itembtn1)
+    bot.send_message(message.chat.id, """Se vi dicessimo che il simbolo di Torino non è la Mole Antonelliana, ma i toret? Cosa sono i "toret"? Ve lo sveliamo subito. 
     Si tratta delle tipiche fontanelle color verde bottiglia che come bocchettoni d’acqua hanno una testa di toro. Il torèt compare sempre più spesso nei negozi che promuovo i souvenir di Torino accanto ovviamente a quelli raffiguranti la Mole, il grande classico dei gadget.\
-""")
+""" ,reply_markup=markup)
     sendphoto(message)
     
 
