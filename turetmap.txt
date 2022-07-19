@@ -318,7 +318,6 @@ lng,lat,nome
 7.670512,45.09771,Via Stradella - Il Bis [FOMM]
 7.680487000000001,45.08746,Via Antonio Cecchi / Via Piossasco
 7.643459000000001,45.085041,Parco della Pellerina - ingresso Corso Appio Claudio
-1.10833,78305694.58.00,Via San Remo
 7.635273000000001,45.033829,Via Giacomo Dina
 7.716423000000001,45.072346,Piazza Enrico Toti [FST]
 7.715593000000001,45.07249500000001,Corso Chieti [N]
@@ -607,7 +606,6 @@ lng,lat,nome
 7.670512,45.09771,Via Stradella - Il Bis [FOMM]
 7.680487000000001,45.08746,Via Antonio Cecchi / Via Piossasco
 7.643459000000001,45.085041,Parco della Pellerina - ingresso Corso Appio Claudio
-1.10833,78305694.58.00,Via San Remo
 7.635273000000001,45.033829,Via Giacomo Dina
 7.716423000000001,45.072346,Piazza Enrico Toti [FST]
 7.715593000000001,45.07249500000001,Corso Chieti [N]
