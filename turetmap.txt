@@ -1,4 +1,4 @@
-WKT,nome
+lng,lat,nome
 7.694163,45.065945,Piazza Vittorio ovest
 7.696337000000001,45.064777,Piazza Vittorio nord
 7.695512,45.064171,Piazza Vittorio sud
