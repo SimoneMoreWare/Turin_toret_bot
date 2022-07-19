@@ -281,7 +281,6 @@ lng,lat,nome
 7.646613,45.033356,Corso Unione Sovietica / Corso Cosenza - Parco [FST]
 7.653791000000001,45.048359,Parco Cavalieri di Vittorio Veneto [FST]
 7.646616,45.033352,Corso Unione Sovietica / Corso Cosenza [FST]
-3.11209,81602661.44.00,Corso Monte Lungo [FA]
 7.656352,45.048611,Corso Monte Lungo [N] Rifornimento Camper
 7.656846000000001,45.0485,Corso Monte Lungo - Bocciofila La Baraonda
 7.663824,45.058475,Vicolo Crocetta - Piazzetta Cassini [N]
@@ -571,7 +570,6 @@ lng,lat,nome
 7.646613,45.033356,Corso Unione Sovietica / Corso Cosenza - Parco [FST]
 7.653791000000001,45.048359,Parco Cavalieri di Vittorio Veneto [FST]
 7.646616,45.033352,Corso Unione Sovietica / Corso Cosenza [FST]
-3.11209,81602661.44.00,Corso Monte Lungo [FA]
 7.656352,45.048611,Corso Monte Lungo [N] Rifornimento Camper
 7.656846000000001,45.0485,Corso Monte Lungo - Bocciofila La Baraonda
 7.663824,45.058475,Vicolo Crocetta - Piazzetta Cassini [N]
