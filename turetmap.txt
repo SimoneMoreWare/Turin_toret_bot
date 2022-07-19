@@ -641,5 +641,4 @@ lng,lat,nome
 7.671112,45.042474000000006,Piazza Carducci
 7.639409,45.034559,Via De Canal
 7.639031,44.995470000000005,Nichelino - via Casalegno
-9.10978,79582553.06.00,Nichelino - via Trento
 7.660385,45.058815,Corso Duca / via Bove
