@@ -1,293 +1,649 @@
-"lan","lng","nome"
-7.672313, 45.078125,"Corso Principe Eugenio / Via Santa Chiara / Via Carlo Allioni"
-7.607635,45.075151,"Parco di Via Edoardo Perroncito"
-7.694174,45.066012,"Piazza Vittorio Veneto Nord"
-7.696357,45.064819,"Piazza Vittorio Veneto / Via Eusebio Bava - Nord"
-7.69546, 45.06413500000001,"Piazza Vittorio Veneto / Via Eusebio Bava - Sud"
-7.698043, 45.062748,"Corso Casale / Ponte Vittorio Emanuele I"
-7.733380000000001, 45.079911,"Via Carlo Della Porta"
-7.624919, 45.06212,"Via Santa Maria Mazzarello"
-7.624470999999999, 45.042268,"Via Edoardo Rubino"
-7.625839, 45.042135,"Parco Via Edoardo Rubino 1"
-7.618469, 45.07304,"Via Mario Soldati"
-7.624344, 45.045489,"Corso Gaetano Salvemini"
-7.627891, 45.038365,"Segnaposto 13"
-7.6259570000000005, 45.045063,"Corso Gaetano Salvemini"
-7.6292860000000005, 45.048930000000006,"Corso Guida Reni"
-7.683019, 45.046602,"Corso Federico Sclopis"
-7.693637999999999, 45.089989,"Via Montanaro"
-7.631561, 45.045639,"Via Nuoro"
-7.668221, 45.03447,"Via Giulio Biglieri"
-7.627543000000001, 45.043562,"Corso Giardino Nicholas Green"
-7.629857, 45.034628,"Parco Lineare"
-7.665221, 45.017079,"Via Ventimiglia"
-7.663522, 45.01843,"Corso Piero Maroncelli / Via Ventimiglia"
-7.645287, 45.045037,"Corso Sebatopoli" 
-7.647155999999999, 45.0444,"Corso Sebatopoli"
-7.675353000000001, 45.046621,"Via Madama Cristina"
-7.628487, 45.037029,"Corso Orbassano / Via Carlo Alfonso Nallino"
-7.6297690000000005, 45.037183,"Piazza Omero"
-7.624643999999999, 45.035954,"Piazza Cattaneo"
-7.629393, 45.05053000000001,"Corso Giuseppe Allamano"
-7.621664999999999, 45.050615,"Corso Giuseppe Allamano (parco)"
-7.767685, 45.081167,"Superga"
-7.71568, 45.095326,"Via Sandro Botticelli"
-7.723611000000001, 45.099609,"Strada di San Mauro / Largo Damiano Chiesa"
-7.629637, 45.034783,"Parco Lineare 2"
-7.620091, 45.047083,"Segnaposto 36"
-7.620384, 45.03376500000001,"Corso Orbassano"
-7.606906000000001, 45.075061,"Parco giochio di Via Edoardo Perroncito"
-7.624919, 45.041661,"Parco Via Edoardo Rubino 2"
-7.628146, 45.047866,"Via Giacomo Balla"
-7.622412, 45.051965,"Strada del Barocchio"
-7.642617999999999, 45.054427,"Via Tolmina - Parco"
-7.700902000000001, 45.079509,"Corso Novara"
-7.70153, 45.078789,"Corso Novara"
-7.698852, 45.101953,"Corso Taranto"
-7.619123000000001, 45.083101,"Via Fratelli Mario e PierLuigi Passoni / Via Pio Paolo Perazzo"
-7.628410000000001, 45.081491,"Corso Bernardino Telezio 82 - Parco giocho"
-7.661435000000001, 45.078722,"Piazza Amedeo Peyron"
-7.67674, 45.087808,"Lungo Dora Napoli 90"
-7.681471, 45.084756,"Lungo Dora Napoli 48"
-7.691926, 45.0961,"Corso Vercelli / Via Desana"
-7.692152, 45.097403,"Corso Vercelli 141"
-7.691372000000001, 45.101789,"Parco giocho Sempione"
-7.693425999999999, 45.092827,"Via Palestrina / Via Martorelli"
-7.705058, 45.09294800000001,"Via Luigi Salvatore Cherubini"
-7.71134, 45.090418,"Via Maddalene / Via Bologna"
-7.713869999999999, 45.090007,"Via alla chiesa"
-7.713183000000001, 45.089183,"Via Gottardo / Via Rosa"
-7.698278, 45.088308,"Piazza Giovanni Bottesini - Via Amilcare Ponchielli"
-7.702172, 45.087343,"Via Leoncavallo / Via Pontichelli"
-7.721565999999999, 45.077599,"Lungo Dora Pietro Colletta"
-7.716656000000001, 45.083663,"Parco Colletta"
-7.703697, 45.075868,"Corso Novara / Lungo Dora Firenze"
-7.698964, 45.081137,"Corso Novara"
-7.726452, 45.07578,"Lungo Po Alessandro Antonelli"
-7.726368999999999, 45.074941,"Lungo Po Alessandro Antonelli"
-7.715109, 45.073515,"Lungo Dora Voghera"
-7.714202, 45.083913,"Cimitero Monumentale Nord"
-7.703819, 45.086547,"Via Bologna / Via Amilcare Ponchielli"
-7.704640000000001, 45.090819,"Via Casella / Via Cruto - Parco giocho"
-7.705775000000001, 45.090861,"Via Enrico Petrella"
-7.682259999999999, 45.067842,"Piazza San Carlo NordOuest"
-7.687934, 45.062688,"Via San Massimo (Parco)"
-7.692433000000001, 45.063178,"Via della Rocca"
-7.644194, 45.120106,"Corso Giuseppe Garibaldi"
-7.65554, 45.10544,"Piazza Giuseppe Manno"
-7.667144999999999, 45.101775,"Piazza Giuseppe Manno [FST]"
-7.668918, 45.074288,"Pizza XVIII Dicembre Martiri della camera del Lavoro 1922 - Porta Susa"
-7.638851000000001, 45.042656,"Parco Rignon"
-7.618664999999999, 45.070505,"Via Francesco De Santis / Largo Luca Della Robbia Parco)"
-7.632159, 45.06729,"Corso Monte Cucco / Monte Ortigara"
-7.636889, 45.090695000000004,"Parco della Pellerina"
-7.701476000000001, 45.089105,"Via Errico Petrella"
-7.655106, 45.052501,"Largo Orbassano [N]"
-7.666967, 45.060874,"Corso Ducad'Aosta"
-7.672922, 45.07448,"Corso Palestro / Via Carlo Boucheron"
-7.669018, 45.017088,"Rotonda Corso Unità d'Italia / Via C. Corrdino stz benzina)"
-7.663157, 45.021968,"Via Passo Buole / Via Nizza"
-7.654534, 45.020667,"Corso Traiano / Via Sette Comuni"
-7.67341, 45.029849,"Corso Unità d'Italia / Piazzale Fratelli Ceirano"
-7.676243, 45.033612,"Corso Unione d'Italia / Campi Tennis"
-7.685940000000001, 45.044637,"Corso Moncalieri / Ponte Principessa Isabella"
-7.676796, 45.049172,"Via Madama Cristina / Via Franceco Petrarca"
-7.681180000000001, 45.05564300000001,"Corso Guglielmo Marconi / Via Madama Cristina"
-7.689185, 45.053704,"Segnaposto 96"
-7.687907999999999, 45.061647,"Via Giuseppe Mazzini / Via Andrea Provana"
-7.700182000000001, 45.063251,"Via Santorre Santarosa / Via Monferrato"
-7.705337000000001, 45.062582,"Via Cardinal Maurizio / Via Asti"
-7.710047, 45.067207,"Piazza Francesco Borromini"
-7.692288, 45.071609,"Corso San Maurizio / Bagus del Giardino Reale"
-7.692822, 45.071309,"Corso San Maurizio / Via Gioacchino Rossini"
-7.723547, 45.0701,"Corso Casale / Parcheggio fronte alla Revolucion"
-7.727252, 45.099828,"Strada di San Mauro"
-7.700114999999999, 45.070003,"Via Cesare Balbo"
-7.711063000000001, 45.084203,"Corso Regio Parco / Cimetiere"
-7.694807, 45.077077,"Corso Regio Parco"
-7.664273, 45.068256,"Corso Bolzano / Corso Vittorio Emanuele II"
-7.663659, 45.061986,"Piazzale Duca d'Aosta"
-7.669159999999999, 45.057501,"Corso Re Umberto"
-7.634527, 45.058217,"Parco Ruffini - Viale Leonardo Bistolfi / Corso Trapani"
-7.680323, 45.07533,"Via Sant'Agostino / Davanti la chiesa"
-7.631728, 45.056615,"Parco Ruffini - Corso Lione"
-7.686980000000001, 45.084247,"Corso Vercelli Parco"
-7.686589000000001, 45.084182,"Corso Vercelli Parco"
-7.647217, 45.046527,"Via Barletta / Chiesa Santa Rita"
-7.672134, 45.039232,"Via Tepice / Via Genova"
-7.669374000000001, 45.037512,"Via Nizza / Corso Spezia"
-7.700005, 45.101468,"Piazza Derna"
-7.634127000000001, 45.039247,"Corso Siracusa / Piazza Pitagora"
-7.648790999999999, 45.078188,"Corso Svizzera," Giardino Dispersi sul fronte russo 1941 - 1943," all`angolo con via Medici"
-7.641812000000001, 45.079623,"Piazza Giampietro Chiron,"
-7.644567, 45.078976,"Area verde via Zumaglia / Via Pietrino Belli Parco [FOMM]"
-7.644921000000001, 45.079614,"Via Giacomo Medici / Via Pietrino Belli"
-7.655525, 45.076442,"Piazza Lorrenzo Bernini - Il Tris di Toret"
-7.6555480000000005, 45.076454,"Piazza Lorrenzo Bernini - Il Tris di Toret"
-7.655576, 45.076463,"Piazza Lorrenzo Bernini NO - Il Tris di Toret"
-7.698482000000001, 45.076548,"Corso Verona / Via Catania"
-7.700947, 45.076339,"Via Carlo Michele Buscalioni"
-7.694238, 45.068345,"Via Sant'Ottavio"
-7.689126999999999, 45.065839,"Piazza Carlo Emanuele II"
-7.692117, 45.059983,"Lungo Po Armando Diaz"
-7.690277, 45.058431,"Parco del Valentino - Viale Virgilio / Corso Emanuele II"
-7.686743999999999, 45.052719,"Parco del Valentino - Viale Virgilio"
-7.622626, 45.074561,"Corso Francia 303"
-7.687938000000001, 45.058904,"Parco del Valentino - Corso Massimo D'Azeglio / Corso Vittorio Emanuele II"
-7.685438, 45.055553,"Parco del Valentino - Corso Massimo D'Azeglio"
-7.665083000000001, 45.064922,"Corso Stati Uniti / Corso Duca degli Abruzzi"
-7.662134999999999, 45.066178,"Corso Stati Uniti / Corso Castelfidardo"
-7.663036, 45.068031,"Corso Castelfidardo / Corso Vittorio Emanuele II"
-7.661397, 45.069713,"Giardino Nicola Grossa - Corso Vittorio Emanuele II"
-7.661017, 45.06903100000001,"Corso Vittorio Emanuele II -  ex carcere Le Nuove"
-7.654456, 45.070975,"Piazza Adriano"
-7.638148000000001, 45.075665,"Parco della Tesoriera - Ingresso Principale Corso Francia"
-7.639831, 45.078097,"Parco della Tesoriera - Parco giocho - Via Borgosesia"
-7.627894, 45.076745,"Via Valgioie"
-7.624847000000001, 45.076199,"Corso Bernardino Telesio 13"
-7.6235800000000005, 45.07332100000001,"Corso Bruneleschi 13"
-7.623032000000001, 45.070898,"Corso Bruneleschi 46"
-7.625537999999999, 45.065821,"Corso Bruneleschi 111"
-7.623758, 45.066796,"Giardino T Grandi - Corso Filippo Brunelleschi / Via Fratelli Fornaca"
-7.630737, 45.06403,"Corso Monte Cucco 126"
-7.6306080000000005, 45.072903,"Area Verde Campamianto - Corso Peschiera"
-7.626877000000001, 45.07366700000001,"Impianto Sportivo Girdino Perchiera - Corso Perchiera 364"
-7.661455, 45.046984,"Corso Lepanto"
-7.688822, 45.08904600000001,"Piazza Francesco Crispi - Corso Novara / Corso Vercelli"
-7.715648000000001, 45.079934,"Via Alfonso Varano"
-7.631767, 45.059936,"Parco Ruffini - Viale Luigi Hugues"
-7.630343000000001, 45.060319,"Parco Ruffini - Corso Luigi D'Albertis"
-7.634138, 45.057276,"Parco Ruffini - Sud Est"
-7.630662000000001, 45.058546,"Parco Ruffini - Corso Carlo Piaggia"
-7.623829000000001, 45.04082700000001,"Via Paolo Gaidano / Via Edoardo Rubino"
-7.681887000000001, 45.074328,"Via Milano / Via San Domenico"
-7.678667000000001, 45.07284500000001,"Via Stampatori Il Bis)"
-7.679018, 45.072334,"Piazza Università dei Mastri Minusieri"
-7.666322, 45.067398,"Corso Vinzaglio"
-7.662425, 45.073644,"Giardono Luigi Martin [FOMM]"
-7.686748, 45.068991000000004,"Via Cesare Batisti"
-7.721221, 45.067019,"Piazza Guido Cavalcanti"
-7.728193, 45.071852,"Corso Casale"
-7.716951, 45.094268,"Piazza Sofia"
-7.582074, 45.07045,"Segnaposto 171"
-7.678656, 45.072828,"Via Stampatori (Il Bis)"
-7.675788, 45.072568,"Corso Giuseppe Siccardi"
-7.685158, 45.079486,"Corso Giuglio Cesare"
-7.690333, 45.085407,"Via Cardinale Gaetano Alimonda"
-7.674296000000001, 45.102407,"Via Campiglia - Parco"
-7.6637830000000005, 45.055511,"Corso Galileo Ferraris"
-7.646152000000001, 45.046928,"Via Barletta / Piazza Santa Rita"
-7.678997, 45.077594,"Anagrafe centrale / Via della Consolata"
-7.679981000000001, 45.06377,"Piazza Carlo Felice"
-7.651331, 45.060986,"Via Osasco"
-7.651892, 45.060046,"Via Paolo Braccini"
-7.656468000000001, 45.06116,"Corso Francesco Ferrucci"
-7.642511000000001, 45.025842,"Via Amedeo Modigliani - Parco"
-7.635463, 45.054371,"Corso Siracusa / Via Tirreno - Parco"
-7.628499, 45.056458,"Via Tintoretto / Via Tirreno"
-7.64911, 45.064141,"Via Muriaglio / Via Di Manni"
-7.645182000000001, 45.063185000000004,"Corso Racconigi / Via Pollenzo"
-7.645175, 45.066641,"Corso Racconigi / Corso Peschiera"
-7.6465570000000005, 45.070397,"Corso Racconigi / Via Frejus"
-7.644583999999999, 45.075294,"Piazza Rivoli"
-7.676892999999999, 45.071488,"Via Antonio Giuseppe Bertola / Piazza"
-7.677174, 45.071395,"Via Antonio Giuseppe Bertola / Piazza"
-7.681679999999999, 45.066701,"Piazza C.L.N."
-7.682034, 45.066582,"Piazza C.L.N."
-7.646798, 45.024416,"Segnaposto 196"
-7.649596000000001, 45.023257,"Via Donato Bachi"
-7.648048999999999, 45.015858,"Via Emanuele Artom"
-7.657098999999999, 45.017985,"Corso Caio Plinio / Via Onorato Vigliani"
-7.656921, 45.019212,"Corso Caio Plinio"
-7.6761930000000005, 45.024107,"Corso Moncalieri"
-7.675727, 45.062814,"Via San Secondo / Via Magenta"
-7.6214770000000005, 45.079278,"Via Pietro Cossa / Via Vittorio Actis"
-7.6348970000000005, 45.087125,"Parco della Pellerina"
-7.636044, 45.095145,"Via Pietro Cossa - Parco"
-7.6360790000000005, 45.095294,"Via Pietro Cossa"
-7.628412999999999, 45.096418,"Via Pietro Cossa"
-7.633030000000001, 45.098964,"Parco [FA]"
-7.634680000000001, 45.100218,"Parco Vallette - Area gioco [FLS]"
-7.636069000000001, 45.103422,"Via delle Pervinche / Viale dei Mughetti [N]"
-7.631567000000001, 45.103504,"Piazza Don G.Pollarolo [FA]"
-7.631165, 45.103834,"Piazza Don G.Pollarolo [FOMM]"
-7.630855, 45.103866000000004,"Piazza E.Montale"
-7.630380000000001, 45.103608,"Piazza E.Montale [T]"
-7.63032, 45.103488,"Piazza E.Montale"
-7.633170000000001, 45.103747,"Piazzale Don G.Pollarolo - Area gioco [N]"
-7.627399, 45.100146,"Parco Vallette - Area gioco - Via delle Primule [N]"
-7.627632, 45.099472,"Parco Vallette - Area Cani [N]"
-7.627586000000001, 45.099334,"Parco Vallette - Area Cani"
-7.6269420000000006, 45.09934,"Parco Vallette - Area Cani"
-7.626270000000001, 45.099356,"Parco Vallette - Area Cani"
-7.62484, 45.104277,"Via delle Primule / Viale dei Mughetti [N]"
-7.644708999999999, 45.100402,"Corso Cincinnato / Corso Toscano [N]"
-7.646576, 45.100478,"Giardino Felice Cavallotti / Corso Toscano [FLS]"
-7.649275, 45.099439,"Corso Lombardia [FOMM]"
-7.647187, 45.096613,"Corso Lonbardia 107 / Lucento Calcio [FOMM]"
-7.645152999999999, 45.096361,"Corso Lombardia 105 / Pattinaggio Lombardia [FOMM]"
-7.642063000000001, 45.097461,"Via Terraneo / Via Viarigi - Area gioco [N]"
-7.641117, 45.098336,"Corso Cincinato 130"
-7.642461, 45.099241,"Corso Cincinato / Via Val della Torre [T]"
-7.641807, 45.099236,"Corso Cincinato / Via Val della Torre"
-7.6400820000000005, 45.099404,"Cascina Bianco - Via Parenzo - Area gioco [N]"
-7.664045, 45.076136,"Corso Francia / Via Principi d'Acaja"
-7.636077, 45.076316,"Corso Monte Grappa / Via Valgioie"
-7.630004, 45.08335,"Corso Bernardino Telesio / Via Giovanni Servais"
-7.674032, 45.070942,"Cittadella - Corso Gelileo Ferraris"
-7.647013, 45.079337,"Via Brone / Via Giacomo Medici [FOMM]"
-7.684603999999999, 45.074193,"Via della Basilicata / Via Porta Palatina - nel Parco"
-7.63449, 45.036153,"Via Enrico Dandolo"
-7.646613, 45.033354,"Corso Unione Sovietica / Corso Cosenza - Parco [FST]"
-7.653791000000001, 45.048358,"Parco Cavalieri di Vittorio Veneto [FST]"
-7.646616, 45.033353,"Corso Unione Sovietica / Corso Cosenza [FST]"
-7.6554, 45.049003,"Corso Monte Lungo [FA]"
-7.656352, 45.048609,"Corso Monte Lungo [N] Rifornimento Camper"
-7.656846000000001, 45.048499,"Corso Monte Lungo - Bocciofila La Baraonda," Piazza Parco d'armi [FST]"
-7.663824, 45.058474,"Vicolo Crocetta - Piazzetta Cassini [N]"
-7.635667, 45.080299000000004,"Giardino P.Coggiola [FOMM]"
-7.656836000000001, 45.075565,"Piazza Lorenzo Bernini SE - Il Tris di Toret [N]"
-7.656800999999999, 45.075568,"Piazza Lorenzo Bernini SE - Il Tris di Toret [N]"
-7.656764000000001, 45.075565,"Piazza Lorenzo Bernini SE - Il Tris di Toret [N]"
-7.652203, 45.079309,"Piazza Risorgimento SO"
-7.653508999999999, 45.079392,"Piazza Risorgimento NE"
-7.661684000000001, 45.073615,"Giardino Luigi Martiri"
-7.683252, 45.04689,"Corso Federico Sclopis"
-7.621619000000001, 45.077153,"Via Valgioie - Pattinaggio [FOMM]"
-7.619739, 45.077399,"Segnaposto 202"
-7.626761, 45.086091,"Corso Appio Claudio - Campo Barsket"
-7.658405000000001, 45.112277,"Piazza Stampalia [FA]"
-7.65923, 45.111043,"Via Caltanissetta - Bocciofila Aurora [N]"
-7.659276, 45.110169,"Via Venaria [N]"
-7.661266, 45.108811,"Via Brosso / Via Lanzo"
-7.66313, 45.106713,"Via Ettore Stampini / Via Orbetello"
-7.667158, 45.100949,"via Stradella [FA]"
-7.667498, 45.100574,"via Stradella - il 7 [FOMM]"
-7.667473, 45.10056,"via Stradella - il 7 [FOMM]"
-7.667461, 45.100536,"via Stradella - il 7 [FOMM]"
-7.667467, 45.100513,"via Stradella - il 7 [FOMM]"
-7.667486, 45.100493,"via Stradella - il 7 [FOMM]"
-7.667517999999999, 45.10048400000001,"via Stradella - il 7 [FOMM]"
-7.667548000000001, 45.100483,"via Stradella - il 7 [FOMM]"
-7.667760000000001, 45.100334,"via Stradella - il 2 [FOMM]"
-7.667777, 45.100406,"via Stradella - il 2 [FOMM]"
-7.668276, 45.099484,"via Stradella / via Assisi - Nord [FOMM]"
-7.668449, 45.099334,"via Stradella / via Assisi - Sud [FOMM]"
-7.667597000000001, 45.097996,"Piazza Luigi Mattirolo [FOMM]"
-7.669546, 45.098872,"Via Breglio [N]"
-7.6705000000000005, 45.097718,"Via Stradella - Il Bis [FOMM]"
-7.670512, 45.097708,"Via Stradella - Il Bis [FOMM]"
-7.680487000000001, 45.08746,"Via Antonio Cecchi / Via Piossasco"
-7.643459000000001, 45.085041,"Parco della Pellerina - ingresso Corso Appio Claudio"
-7.6366, 45.033718,"Via San Remo"
-7.635273000000001, 45.03383,"Via Giacomo Dina"
-7.716423000000001, 45.072345,"Piazza Enrico Toti [FST]"
-7.715593000000001, 45.07249500000001,"Corso Chieti [N]"
-7.683752000000001, 45.079398,"Via Goffredo Mameli / Via Vittorio Andreis [FOMM]"
-7.67903, 45.063308,"Piazza Carlo Felice"
-7.682981000000001, 45.067568,"Piazza San Carlo SubEst"
-7.667906000000001, 45.078453,"Via Giambattista Balbis / Via San Donato"
-7.627241, 45.134663,"VENERIA REALE - Via 20 Settembre / Via Andrea Mensa"
-7.638615, 45.128913,"VENERIA REALE - PIAZZA B.ATZEI"
-7.643045999999999, 45.039139000000006,"Piazza Carlo Montanari"
-7.678121, 45.054212,"Via Oddino Morgari / Via Belfiore"
+WKT,nome
+7.694163,45.065945,Piazza Vittorio ovest
+7.696337000000001,45.064777,Piazza Vittorio nord
+7.695512,45.064171,Piazza Vittorio sud
+7.695837,45.068218,Corso San Maurizio lato nord
+7.69176,45.063305,Piazza Maria Teresa
+7.687662,45.061638,Via Mazzini - fronte chiesa
+7.688928,45.06331300000001,Via San Massimo - Giardini
+7.68182,45.06992,Via Bertola
+7.649456000000001,45.026459,Parco di Vittorio - lato nord
+7.648550000000001,45.024628,Parco di Vittorio - lato sud
+7.653635000000001,45.033466000000004,Piazza Galimberti - lato ovest
+7.655623000000001,45.033264,Piazza Galimberti - lato nord
+7.668210000000001,45.034527,Via Biglieri
+7.6612469999999995,45.04715,Corso Lepanto
+7.680645,45.078732,Segnaposto 17
+7.673412000000001,45.02985,Corso Unità d'Italia
+7.654134000000001,45.038887,Piazza San Gabriele di Gorizia
+7.652432000000001,45.037411,Via Arnaldo da Brescia
+7.6791,45.048542000000005,Piazza d'Armi
+7.632017000000001,44.996769,NichelinVia Berlinguer
+7.656827,45.018745,Via Duino
+7.657288,45.017464,Via Onorato Vigliani
+7.647171,45.076916,Porta Susa
+7.700139000000001,45.063236,Via Monferrato
+7.678700000000001,45.072884,Via Stampatori
+7.670956999999999,45.076111,Piazza Statuto
+7.647005,45.079346,Via Brione
+7.64149,44.99839,Nichelino Parco giochi  via Stupinigi
+7.6413590000000005,44.998337,Nichelino Parco giochi via Stupinigi 2
+7.72359,45.099606,Strada San Mauro angolo Strada Settimo
+7.727255000000001,45.099831,Strada San Mauro 34
+7.676772,45.049149,piazza Govean
+7.620412000000001,45.033688,Corso Orbassano
+7.616712,45.042782,Giardino Kimberly
+7.63729,45.043797,Parco Rignon
+7.646656000000001,45.047016,Piazza Santa Rita
+7.646163,45.046593,Piazza Santa Rita
+7.646483999999999,44.995628,Nichelino - piazza Barile
+7.6561189999999995,45.083965,Via San Donato
+7.690387,45.085384,via Alimonda
+7.653325,45.029013,Via Olivero
+7.6518060000000006,45.032315,Via La Loggia
+7.649386999999999,45.023197,Via Bachi
+7.672313,45.078125,Corso Principe Eugenio / Via Santa Chiara / Via Carlo Allioni
+7.607635,45.07515,Parco di Via Edoardo Perroncito
+7.694174,45.066013,Piazza Vittorio Veneto Nord
+7.696357,45.064819,Piazza Vittorio Veneto / Via Eusebio Bava - Nord
+7.69546,45.064137,Piazza Vittorio Veneto / Via Eusebio Bava - Sud
+7.698043,45.062748,Corso Casale / Ponte Vittorio Emanuele I
+7.733380000000001,45.07991,Via Carlo Della Porta
+7.624919,45.062119,Via Santa Maria Mazzarello
+7.624470999999999,45.042267,Via Edoardo Rubino
+7.625839,45.042133,Parco Via Edoardo Rubino 1
+7.618469,45.07304,Via Mario Soldati
+7.624344,45.04549,Corso Gaetano Slvemini
+7.627891,45.038364,Segnaposto 13
+7.6259570000000005,45.045063,Corso Gaetano Salvemini
+7.6292860000000005,45.048931,Corso Guida Reni
+7.683019,45.0466,Corso Federico Sclopis
+7.693637999999999,45.089989,Via Montanaro
+7.631561,45.045639,Via Nuoro
+7.668221,45.03447,Via Giulio Biglieri
+7.627543000000001,45.043564,Corso Giardino Nicholas Green
+7.629857,45.03463,Parco Lineare
+7.665221,45.017078,Via Ventimiglia
+7.663522,45.018429,Corso Piero Maroncelli / Via Ventimiglia
+7.645287,45.045036,Corso Sebatopoli
+7.647155999999999,45.044399,Corso Sebatopoli
+7.675353000000001,45.046619,Via Madama Cristina
+7.628487,45.037029,Corso Orbassano / Via Carlo Alfonso Nallino
+7.6297690000000005,45.037182,Piazza Omero
+7.624643999999999,45.035954,Piazza Cattaneo
+7.629393,45.050529,Corso Giuseppe Allamano
+7.621664999999999,45.050613,Corso Giuseppe Allamano (parco
+7.767685,45.081165000000006,Superga
+7.71568,45.095325,Via Sandro Botticelli
+7.723611000000001,45.099609,Strada di San Mauro / Largo Damiano Chiesa
+7.629637,45.034782,Parco Lineare 2
+7.620091,45.047085,Segnaposto 36
+7.620384,45.033764,Corso Orbassano
+7.606906000000001,45.075062,Parco giochio di Via Edoardo Perroncito
+7.624919,45.04166,Parco Via Edoardo Rubino 2
+7.628146,45.047867,Via Giacomo Balla
+7.622412,45.051964000000005,Strada del Barocchio
+7.642617999999999,45.054428,Via Tolmina - Parco
+7.700902000000001,45.07951,Corso Novara
+7.70153,45.078789,Corso Novara
+7.698852,45.101952,Corso Taranto
+7.619123000000001,45.083099,Via Fratelli Mario e PierLuigi Passoni / Via Pio Paolo Perazzo
+7.628410000000001,45.08149,Corso Bernardino Telezio 82 - Parco giocho
+7.661435000000001,45.07872,Piazza Amedeo Peyron
+7.67674,45.087807,Lungo Dora Napoli 90
+7.681471,45.084755,Lungo Dora Napoli 48
+7.691926,45.0961,Corso Vercelli / Via Desana
+7.692152,45.097404,Corso Vercelli 141
+7.691372000000001,45.101788,Parco giocho Sempione
+7.693425999999999,45.092827,Via Palestrina / Via Martorelli
+7.705058,45.092949000000004,Via Luigi Salvatore Cherubini
+7.71134,45.09042,Via Maddalene / Via Bologna
+7.713869999999999,45.090008,Via alla chiesa
+7.713183000000001,45.089184,Via Gottardo / Via Rosa
+7.698278,45.088306,Piazza Giovanni Bottesini - Via Amilcare Ponchielli
+7.702172,45.087341,Via Leoncavallo / Via Pontichelli
+7.721565999999999,45.077599,Lungo Dora Pietro Colletta
+7.716656000000001,45.083664,Parco Colletta
+7.703697,45.075867,Corso Novara / Lungo Dora Firenze
+7.698964,45.081139,Corso Novara
+7.726452,45.075779,Lungo Po Alessandro Antonelli
+7.726368999999999,45.07494,Lungo Po Alessandro Antonelli
+7.715109,45.073517,Lungo Dora Voghera
+7.714202,45.083912,Cimitero Monumentale Nord
+7.703819,45.086548,Via Bologna / Via Amilcare Ponchielli
+7.704640000000001,45.09082,Via Casella / Via Cruto - Parco giocho
+7.705775000000001,45.090862,Via Enrico Petrella
+7.682259999999999,45.067841,Piazza San Carlo NordOuest
+7.687934,45.062687,Via San Massimo
+7.692433000000001,45.063179,Via della Rocca
+7.644194,45.120106,Corso Giuseppe Garibaldi
+7.65554,45.105438,Piazza Giuseppe Manno
+7.667144999999999,45.101776,Piazza Giuseppe Manno [FST]
+7.668918,45.074287,Pizza XVIII Dicembre Martiri della camera del Lavoro 1922 - Porta Susa
+7.638851000000001,45.042656,Parco Rignon
+7.618664999999999,45.07050300000001,Via Francesco De Santis / Largo Luca Della Robbia (Parco
+7.632159,45.067291,Corso Monte Cucco / Monte Ortigara
+7.636889,45.090694000000006,Parco della Pellerina
+7.701476000000001,45.089104,Via Errico Petrella
+7.655106,45.052502,Largo Orbassano [N]
+7.666967,45.060875,Corso Ducad'Aosta
+7.672922,45.074478,Corso Palestro / Via Carlo Boucheron
+7.669018,45.01709,Rotonda Corso Unità d'Italia / Via C. Corrdino (stz benzina
+7.663157,45.021969,Via Passo Buole / Via Nizza
+7.654534,45.020668,Corso Traiano / Via Sette Comuni
+7.67341,45.02985,Corso Unità d'Italia / Piazzale Fratelli Ceirano
+7.676243,45.033611,Corso Unione d'Italia / Campi Tennis
+7.685940000000001,45.044636,Corso Moncalieri / Ponte Principessa Isabella
+7.676796,45.049171,Via Madama Cristina / Via Franceco Petrarca
+7.681180000000001,45.055641,Corso Guglielmo Marconi / Via Madama Cristina
+7.689185,45.053703,Segnaposto 96
+7.687907999999999,45.061646,Via Giuseppe Mazzini / Via Andrea Provana
+7.700182000000001,45.063251,Via Santorre Santarosa / Via Monferrato
+7.705337000000001,45.062580000000004,Via Cardinal Maurizio / Via Asti
+7.710047,45.067207,Piazza Francesco Borromini
+7.692288,45.071609,Corso San Maurizio / Bagus del Giardino Reale
+7.692822,45.071308,Corso San Maurizio / Via Gioacchino Rossini
+7.723547,45.070099,Corso Casale / Parcheggio fronte alla Revolucion
+7.727252,45.099827,Strada di San Mauro
+7.700114999999999,45.070004,Via Cesare Balbo
+7.711063000000001,45.084202,Corso Regio Parco / Cimetiere
+7.694807,45.077076,Corso Regio Parco
+7.664273,45.068256,Corso Bolzano / Corso Vittorio Emanuele II
+7.663659,45.061985,Piazzale Duca d'Aosta
+7.669159999999999,45.057503,Corso Re Umberto
+7.634527,45.058216,Parco Ruffini - Viale Leonardo Bistolfi / Corso Trapani
+7.680323,45.075329,Via Sant'Agostino / Davanti la chiesa
+7.631728,45.056614,Parco Ruffini - Corso Lione
+7.686980000000001,45.084248,Corso Vercelli Parco
+7.686589000000001,45.084183,Corso Vercelli Parco
+7.647217,45.046528,Via Barletta / Chiesa Santa Rita
+7.672134,45.03923,Via Tepice / Via Genova
+7.669374000000001,45.037514,Via Nizza / Corso Spezia
+7.700005,45.101467,Piazza Derna
+7.634127000000001,45.039246,Corso Siracusa / Piazza Pitagora
+7.648790999999999,45.07819,Corso Svizzera
+7.641812000000001,45.079624,Piazza Giampietro Chironi
+7.644567,45.078976,Area verde via Zumaglia / Via Pietrino Belli Parco [FOMM]
+7.644921000000001,45.079613,Via Giacomo Medici / Via Pietrino Belli
+7.655525,45.076443000000005,Piazza Lorrenzo Bernini - Il Tris di Toret
+7.6555480000000005,45.076454,Piazza Lorrenzo Bernini - Il Tris di Toret
+7.655576,45.076462,Piazza Lorrenzo Bernini NO - Il Tris di Toret
+7.698482000000001,45.07655,Corso Verona / Via Catania
+7.700947,45.07634,Via Carlo Michele Buscalioni
+7.694238,45.068344,Via Sant'Ottavio
+7.692117,45.059982,Lungo Po Armando Diaz
+7.690277,45.05843,Parco del Valentino - Viale Virgilio / Corso Emanuele II
+7.686743999999999,45.052719,Parco del Valentino - Viale Virgilio
+7.622626,45.074562,Corso Francia 303
+7.687938000000001,45.058903,Parco del Valentino - Corso Massimo D'Azeglio / Corso Vittorio Emanuele II
+7.685438,45.055553,Parco del Valentino - Corso Massimo D'Azeglio
+7.665083000000001,45.064922,Corso Stati Uniti / Corso Duca degli Abruzzi
+7.662134999999999,45.066177,Corso Stati Uniti / Corso Castelfidardo
+7.663036,45.068031,Corso Castelfidardo / Corso Vittorio Emanuele II
+7.661397,45.069714,Giardino Nicola Grossa - Corso Vittorio Emanuele II
+7.661017,45.06903100000001,Corso Vittorio Emanuele II -  ex carcere Le Nuove
+7.654456,45.070976,Piazza Adriano
+7.638148000000001,45.075665,Parco della Tesoriera - Ingresso Principale Corso Francia
+7.639831,45.078098,Parco della Tesoriera - Parco giocho - Via Borgosesia
+7.627894,45.076744000000005,Via Valgioie
+7.624847000000001,45.076199,Corso Bernardino Telesio 13
+7.6235800000000005,45.073322000000005,Corso Bruneleschi 13
+7.623032000000001,45.070896000000005,Corso Bruneleschi 46
+7.625537999999999,45.065823,Corso Bruneleschi 111
+7.623758,45.066795,Giardino T Grandi - Corso Filippo Brunelleschi / Via Fratelli Fornaca
+7.630737,45.06403,Corso Monte Cucco 126
+7.6306080000000005,45.072903,Area Verde Campamianto - Corso Peschiera
+7.626877000000001,45.07366600000001,Impianto Sportivo Girdino Perchiera - Corso Perchiera 364
+7.688822,45.08904600000001,Piazza Francesco Crispi - Corso Novara / Corso Vercelli
+7.715648000000001,45.079933,Via Alfonso Varano
+7.631767,45.059937,Parco Ruffini - Viale Luigi Hugues
+7.630343000000001,45.060318,Parco Ruffini - Corso Luigi D'Albertis
+7.634138,45.057278,Parco Ruffini - Sud Est
+7.630662000000001,45.058544,Parco Ruffini - Corso Carlo Piaggia
+7.623829000000001,45.040829,Via Paolo Gaidano / Via Edoardo Rubino
+7.681887000000001,45.074329,Via Milano / Via San Domenico
+7.678667000000001,45.07284500000001,Via Stampatori (Il Bis
+7.679018,45.072334,Piazza Università dei Mastri Minusieri
+7.666322,45.067398,Corso Vinzaglio
+7.662425,45.073643,Giardono Luigi Martin [FOMM]
+7.686748,45.068993,Via Cesare Batisti
+7.721221,45.06702,Piazza Guido Cavalcanti
+7.728193,45.071854,Corso Casale
+7.716951,45.094269,Piazza Sofia
+7.582074,45.07045,Segnaposto 171
+7.678656,45.072826,Via Stampatori (Il Bis
+7.675788,45.072567,Corso Giuseppe Siccardi
+7.685158,45.079487,Corso Giuglio Cesare
+7.690333,45.085407,Via Cardinale Gaetano Alimonda
+7.674296000000001,45.102406,Via Campiglia - Parco
+7.6637830000000005,45.055511,Corso Galileo Ferraris
+7.646152000000001,45.046928,Via Barletta / Piazza Santa Rita
+7.678997,45.077595,Anagrafe centrale / Via della Consolata
+7.679981000000001,45.06377,Piazza Carlo Felice
+7.651331,45.060986,Via Osasco
+7.651892,45.060047,Via Paolo Braccini
+7.656468000000001,45.061161,Corso Francesco Ferrucci
+7.642511000000001,45.025841,Via Amedeo Modigliani - Parco
+7.635463,45.054371,Corso Siracusa / Via Tirreno - Parco
+7.628499,45.056458,Via Tintoretto / Via Tirreno
+7.64911,45.06414,Via Muriaglio / Via Di Manni
+7.645182000000001,45.063187,Corso Racconigi / Via Pollenzo
+7.645175,45.066643,Corso Racconigi / Corso Peschiera
+7.6465570000000005,45.070396,Corso Racconigi / Via Frejus
+7.644583999999999,45.075294,Piazza Rivoli
+7.676892999999999,45.071487,Via Antonio Giuseppe Bertola / Piazza
+7.677174,45.071396,Via Antonio Giuseppe Bertola / Piazza
+7.681679999999999,45.0667,Piazza C.L.N.
+7.682034,45.066582,Piazza C.L.N.
+7.646798,45.024418,Segnaposto 196
+7.648048999999999,45.015858,Via Emanuele Artom
+7.657098999999999,45.017986,Corso Caio Plinio / Via Onorato Vigliani
+7.656921,45.019211000000006,Corso Caio Plinio
+7.6761930000000005,45.024109,Corso Moncalieri
+7.675727,45.062813,Via San Secondo / Via Magenta
+7.6214770000000005,45.079277,Via Pietro Cossa / Via Vittorio Actis
+7.6348970000000005,45.087124,Parco della Pellerina
+7.636044,45.095146,Via Pietro Cossa - Parco
+7.6360790000000005,45.095295,Via Pietro Cossa
+7.628412999999999,45.096416,Via Pietro Cossa
+7.633030000000001,45.098965,Parco [FA]
+7.634680000000001,45.10022,Parco Vallette - Area gioco [FLS]
+7.636069000000001,45.10342,Via delle Pervinche / Viale dei Mughetti [N]
+7.631567000000001,45.103504,Piazza Don G.Pollarolo [FA]
+7.631165,45.103832,Piazza Don G.Pollarolo [FOMM]
+7.630855,45.103867,Piazza E.Montale
+7.630380000000001,45.103607000000004,Piazza E.Montale [T]
+7.63032,45.103489,Piazza E.Montale
+7.633170000000001,45.103748,Piazzale Don G.Pollarolo - Area gioco [N]
+7.627399,45.100147,Parco Vallette - Area gioco - Via delle Primule [N]
+7.627632,45.099472,Parco Vallette - Area Cani [N]
+7.627586000000001,45.099335,Parco Vallette - Area Cani
+7.6269420000000006,45.099339,Parco Vallette - Area Cani
+7.626270000000001,45.09935800000001,Parco Vallette - Area Cani
+7.62484,45.104279,Via delle Primule / Viale dei Mughetti [N]
+7.644708999999999,45.100403,Corso Cincinnato / Corso Toscano [N]
+7.646576,45.100479,Giardino Felice Cavallotti / Corso Toscano [FLS]
+7.649275,45.099438,Corso Lombardia [FOMM]
+7.647187,45.096615,Corso Lonbardia 107 / Lucento Calcio [FOMM]
+7.645152999999999,45.096359,Corso Lombardia 105 / Pattinaggio Lombardia [FOMM]
+7.642063000000001,45.097462,Via Terraneo / Via Viarigi - Area gioco [N]
+7.641117,45.098335,Corso Cincinato 130
+7.642461,45.099239,Corso Cincinato / Via Val della Torre [T]
+7.641807,45.099236,Corso Cincinato / Via Val della Torre
+7.6400820000000005,45.099403,Cascina Bianco - Via Parenzo - Area gioco [N]
+7.664045,45.07613800000001,Corso Francia / Via Principi d'Acaja
+7.636077,45.076317,Corso Monte Grappa / Via Valgioie
+7.630004,45.083351,Corso Bernardino Telesio / Via Giovanni Servais
+7.674032,45.070942,Cittadella - Corso Gelileo Ferraris
+7.647013,45.079338,Via Brone / Via Giacomo Medici [FOMM]
+7.684603999999999,45.074192,Via della Basilicata / Via Porta Palatina - nel Parco
+7.63449,45.036152,Via Enrico Dandolo
+7.646613,45.033356,Corso Unione Sovietica / Corso Cosenza - Parco [FST]
+7.653791000000001,45.048359,Parco Cavalieri di Vittorio Veneto [FST]
+7.646616,45.033352,Corso Unione Sovietica / Corso Cosenza [FST]
+3.11209,81602661.44.00,Corso Monte Lungo [FA]
+7.656352,45.048611,Corso Monte Lungo [N] Rifornimento Camper
+7.656846000000001,45.0485,Corso Monte Lungo - Bocciofila La Baraonda
+7.663824,45.058475,Vicolo Crocetta - Piazzetta Cassini [N]
+7.635667,45.080299000000004,Giardino P.Coggiola [FOMM]
+7.656836000000001,45.075565,Piazza Lorenzo Bernini SE - Il Tris di Toret [N]
+7.656800999999999,45.075569,Piazza Lorenzo Bernini SE - Il Tris di Toret [N]
+7.656764000000001,45.075565,Piazza Lorenzo Bernini SE - Il Tris di Toret [N]
+7.652203,45.079308,Piazza Risorgimento SO
+7.653508999999999,45.079391,Piazza Risorgimento NE
+7.661684000000001,45.073616,Giardino Luigi Martiri
+7.683252,45.04689,Corso Federico Sclopis
+7.621619000000001,45.077152,Via Valgioie - Pattinaggio [FOMM]
+7.619739,45.0774,Segnaposto 202
+7.626761,45.08609,Corso Appio Claudio - Campo Barsket
+7.658405000000001,45.112278,Piazza Stampalia [FA]
+7.65923,45.111042,Via Caltanissetta - Bocciofila Aurora [N]
+7.659276,45.110168,Via Venaria [N]
+7.661266,45.10881,Via Brosso / Via Lanzo
+7.66313,45.106712,Via Ettore Stampini / Via Orbetello
+7.667158,45.100948,via Stradella [FA]
+7.667498,45.100574,via Stradella - il 7 [FOMM]
+7.667473,45.100559,via Stradella - il 7 [FOMM]
+7.667461,45.100536,via Stradella - il 7 [FOMM]
+7.667467,45.100513,via Stradella - il 7 [FOMM]
+7.667486,45.100494,via Stradella - il 7 [FOMM]
+7.667517999999999,45.100483,via Stradella - il 7 [FOMM]
+7.667548000000001,45.100483,via Stradella - il 7 [FOMM]
+7.667760000000001,45.100334,via Stradella - il 2 [FOMM]
+7.667777,45.100407,via Stradella - il 2 [FOMM]
+7.668276,45.099483,via Stradella / via Assisi - Nord [FOMM]
+7.668449,45.099335,via Stradella / via Assisi - Sud [FOMM]
+7.667597000000001,45.097996,Piazza Luigi Mattirolo [FOMM]
+7.669546,45.098873,Via Breglio [N]
+7.6705000000000005,45.097717,Via Stradella - Il Bis [FOMM]
+7.670512,45.09771,Via Stradella - Il Bis [FOMM]
+7.680487000000001,45.08746,Via Antonio Cecchi / Via Piossasco
+7.643459000000001,45.085041,Parco della Pellerina - ingresso Corso Appio Claudio
+1.10833,78305694.58.00,Via San Remo
+7.635273000000001,45.033829,Via Giacomo Dina
+7.716423000000001,45.072346,Piazza Enrico Toti [FST]
+7.715593000000001,45.07249500000001,Corso Chieti [N]
+7.683752000000001,45.079399,Via Goffredo Mameli / Via Vittorio Andreis [FOMM]
+7.67903,45.063309,Piazza Carlo Felice
+7.682981000000001,45.06757,Piazza San Carlo SubEst
+7.667906000000001,45.078453,Via Giambattista Balbis / Via San Donato
+7.627241,45.134663,VENERIA REALE - Via 20 Settembre / Via Andrea Mensa
+7.638615,45.128914,VENERIA REALE - PIAZZA B.ATZEI
+7.643045999999999,45.039139000000006,Piazza Carlo Montanari
+7.678121,45.054211,Via Oddino Morgari / Via Belfiore
+7.672313,45.078125,Corso Principe Eugenio / Via Santa Chiara / Via Carlo Allioni
+7.607635,45.07515,Parco di Via Edoardo Perroncito
+7.694174,45.066013,Piazza Vittorio Veneto Nord
+7.696357,45.064819,Piazza Vittorio Veneto / Via Eusebio Bava - Nord
+7.69546,45.064137,Piazza Vittorio Veneto / Via Eusebio Bava - Sud
+7.698043,45.062748,Corso Casale / Ponte Vittorio Emanuele I
+7.733380000000001,45.07991,Via Carlo Della Porta
+7.624919,45.062119,Via Santa Maria Mazzarello
+7.624470999999999,45.042267,Via Edoardo Rubino
+7.625839,45.042133,Parco Via Edoardo Rubino 1
+7.618469,45.07304,Via Mario Soldati
+7.624344,45.04549,Corso Gaetano Slvemini
+7.627891,45.038364,Segnaposto 13
+7.6259570000000005,45.045063,Corso Gaetano Salvemini
+7.6292860000000005,45.048931,Corso Guida Reni
+7.683019,45.0466,Corso Federico Sclopis
+7.693637999999999,45.089989,Via Montanaro
+7.631561,45.045639,Via Nuoro
+7.668221,45.03447,Via Giulio Biglieri
+7.627543000000001,45.043564,Corso Giardino Nicholas Green
+7.629857,45.03463,Parco Lineare
+7.665221,45.017078,Via Ventimiglia
+7.663522,45.018429,Corso Piero Maroncelli / Via Ventimiglia
+7.645287,45.045036,Corso Sebatopoli
+7.647155999999999,45.044399,Corso Sebatopoli
+7.675353000000001,45.046619,Via Madama Cristina
+7.628487,45.037029,Corso Orbassano / Via Carlo Alfonso Nallino
+7.6297690000000005,45.037182,Piazza Omero
+7.624643999999999,45.035954,Piazza Cattaneo
+7.629393,45.050529,Corso Giuseppe Allamano
+7.621664999999999,45.050613,Corso Giuseppe Allamano (parco
+7.767685,45.081165000000006,Superga
+7.71568,45.095325,Via Sandro Botticelli
+7.723611000000001,45.099609,Strada di San Mauro / Largo Damiano Chiesa
+7.629637,45.034782,Parco Lineare 2
+7.620091,45.047085,Segnaposto 36
+7.620384,45.033764,Corso Orbassano
+7.606906000000001,45.075062,Parco giochio di Via Edoardo Perroncito
+7.624919,45.04166,Parco Via Edoardo Rubino 2
+7.628146,45.047867,Via Giacomo Balla
+7.622412,45.051964000000005,Strada del Barocchio
+7.642617999999999,45.054428,Via Tolmina - Parco
+7.700902000000001,45.07951,Corso Novara
+7.70153,45.078789,Corso Novara
+7.698852,45.101952,Corso Taranto
+7.619123000000001,45.083099,Via Fratelli Mario e PierLuigi Passoni / Via Pio Paolo Perazzo
+7.628410000000001,45.08149,Corso Bernardino Telezio 82 - Parco giocho
+7.661435000000001,45.07872,Piazza Amedeo Peyron
+7.67674,45.087807,Lungo Dora Napoli 90
+7.681471,45.084755,Lungo Dora Napoli 48
+7.691926,45.0961,Corso Vercelli / Via Desana
+7.692152,45.097404,Corso Vercelli 141
+7.691372000000001,45.101788,Parco giocho Sempione
+7.693425999999999,45.092827,Via Palestrina / Via Martorelli
+7.705058,45.092949000000004,Via Luigi Salvatore Cherubini
+7.71134,45.09042,Via Maddalene / Via Bologna
+7.713869999999999,45.090008,Via alla chiesa
+7.713183000000001,45.089184,Via Gottardo / Via Rosa
+7.698278,45.088306,Piazza Giovanni Bottesini - Via Amilcare Ponchielli
+7.702172,45.087341,Via Leoncavallo / Via Pontichelli
+7.721565999999999,45.077599,Lungo Dora Pietro Colletta
+7.716656000000001,45.083664,Parco Colletta
+7.703697,45.075867,Corso Novara / Lungo Dora Firenze
+7.698964,45.081139,Corso Novara
+7.726452,45.075779,Lungo Po Alessandro Antonelli
+7.726368999999999,45.07494,Lungo Po Alessandro Antonelli
+7.715109,45.073517,Lungo Dora Voghera
+7.714202,45.083912,Cimitero Monumentale Nord
+7.703819,45.086548,Via Bologna / Via Amilcare Ponchielli
+7.704640000000001,45.09082,Via Casella / Via Cruto - Parco giocho
+7.705775000000001,45.090862,Via Enrico Petrella
+7.682259999999999,45.067841,Piazza San Carlo NordOuest
+7.687934,45.062687,Via San Massimo
+7.692433000000001,45.063179,Via della Rocca
+7.644194,45.120106,Corso Giuseppe Garibaldi
+7.65554,45.105438,Piazza Giuseppe Manno
+7.667144999999999,45.101776,Piazza Giuseppe Manno [FST]
+7.668918,45.074287,Pizza XVIII Dicembre Martiri della camera del Lavoro 1922 - Porta Susa
+7.638851000000001,45.042656,Parco Rignon
+7.618664999999999,45.07050300000001,Via Francesco De Santis / Largo Luca Della Robbia (Parco
+7.632159,45.067291,Corso Monte Cucco / Monte Ortigara
+7.636889,45.090694000000006,Parco della Pellerina
+7.701476000000001,45.089104,Via Errico Petrella
+7.655106,45.052502,Largo Orbassano [N]
+7.666967,45.060875,Corso Ducad'Aosta
+7.672922,45.074478,Corso Palestro / Via Carlo Boucheron
+7.669018,45.01709,Rotonda Corso Unità d'Italia / Via C. Corrdino (stz benzina
+7.663157,45.021969,Via Passo Buole / Via Nizza
+7.654534,45.020668,Corso Traiano / Via Sette Comuni
+7.67341,45.02985,Corso Unità d'Italia / Piazzale Fratelli Ceirano
+7.676243,45.033611,Corso Unione d'Italia / Campi Tennis
+7.685940000000001,45.044636,Corso Moncalieri / Ponte Principessa Isabella
+7.676796,45.049171,Via Madama Cristina / Via Franceco Petrarca
+7.681180000000001,45.055641,Corso Guglielmo Marconi / Via Madama Cristina
+7.689185,45.053703,Segnaposto 96
+7.687907999999999,45.061646,Via Giuseppe Mazzini / Via Andrea Provana
+7.700182000000001,45.063251,Via Santorre Santarosa / Via Monferrato
+7.705337000000001,45.062580000000004,Via Cardinal Maurizio / Via Asti
+7.710047,45.067207,Piazza Francesco Borromini
+7.692288,45.071609,Corso San Maurizio / Bagus del Giardino Reale
+7.692822,45.071308,Corso San Maurizio / Via Gioacchino Rossini
+7.723547,45.070099,Corso Casale / Parcheggio fronte alla Revolucion
+7.727252,45.099827,Strada di San Mauro
+7.700114999999999,45.070004,Via Cesare Balbo
+7.711063000000001,45.084202,Corso Regio Parco / Cimetiere
+7.694807,45.077076,Corso Regio Parco
+7.664273,45.068256,Corso Bolzano / Corso Vittorio Emanuele II
+7.663659,45.061985,Piazzale Duca d'Aosta
+7.669159999999999,45.057503,Corso Re Umberto
+7.634527,45.058216,Parco Ruffini - Viale Leonardo Bistolfi / Corso Trapani
+7.680323,45.075329,Via Sant'Agostino / Davanti la chiesa
+7.631728,45.056614,Parco Ruffini - Corso Lione
+7.686980000000001,45.084248,Corso Vercelli Parco
+7.686589000000001,45.084183,Corso Vercelli Parco
+7.647217,45.046528,Via Barletta / Chiesa Santa Rita
+7.672134,45.03923,Via Tepice / Via Genova
+7.669374000000001,45.037514,Via Nizza / Corso Spezia
+7.700005,45.101467,Piazza Derna
+7.634127000000001,45.039246,Corso Siracusa / Piazza Pitagora
+7.648790999999999,45.07819,Corso Svizzera
+7.641812000000001,45.079624,Piazza Giampietro Chironi
+7.644567,45.078976,Area verde via Zumaglia / Via Pietrino Belli Parco [FOMM]
+7.644921000000001,45.079613,Via Giacomo Medici / Via Pietrino Belli
+7.655525,45.076443000000005,Piazza Lorrenzo Bernini - Il Tris di Toret
+7.6555480000000005,45.076454,Piazza Lorrenzo Bernini - Il Tris di Toret
+7.655576,45.076462,Piazza Lorrenzo Bernini NO - Il Tris di Toret
+7.698482000000001,45.07655,Corso Verona / Via Catania
+7.700947,45.07634,Via Carlo Michele Buscalioni
+7.694238,45.068344,Via Sant'Ottavio
+7.692117,45.059982,Lungo Po Armando Diaz
+7.690277,45.05843,Parco del Valentino - Viale Virgilio / Corso Emanuele II
+7.686743999999999,45.052719,Parco del Valentino - Viale Virgilio
+7.622626,45.074562,Corso Francia 303
+7.687938000000001,45.058903,Parco del Valentino - Corso Massimo D'Azeglio / Corso Vittorio Emanuele II
+7.685438,45.055553,Parco del Valentino - Corso Massimo D'Azeglio
+7.665083000000001,45.064922,Corso Stati Uniti / Corso Duca degli Abruzzi
+7.662134999999999,45.066177,Corso Stati Uniti / Corso Castelfidardo
+7.663036,45.068031,Corso Castelfidardo / Corso Vittorio Emanuele II
+7.661397,45.069714,Giardino Nicola Grossa - Corso Vittorio Emanuele II
+7.661017,45.06903100000001,Corso Vittorio Emanuele II -  ex carcere Le Nuove
+7.654456,45.070976,Piazza Adriano
+7.638148000000001,45.075665,Parco della Tesoriera - Ingresso Principale Corso Francia
+7.639831,45.078098,Parco della Tesoriera - Parco giocho - Via Borgosesia
+7.627894,45.076744000000005,Via Valgioie
+7.624847000000001,45.076199,Corso Bernardino Telesio 13
+7.6235800000000005,45.073322000000005,Corso Bruneleschi 13
+7.623032000000001,45.070896000000005,Corso Bruneleschi 46
+7.625537999999999,45.065823,Corso Bruneleschi 111
+7.623758,45.066795,Giardino T Grandi - Corso Filippo Brunelleschi / Via Fratelli Fornaca
+7.630737,45.06403,Corso Monte Cucco 126
+7.6306080000000005,45.072903,Area Verde Campamianto - Corso Peschiera
+7.626877000000001,45.07366600000001,Impianto Sportivo Girdino Perchiera - Corso Perchiera 364
+7.661455,45.046986,Corso Lepanto
+7.688822,45.08904600000001,Piazza Francesco Crispi - Corso Novara / Corso Vercelli
+7.715648000000001,45.079933,Via Alfonso Varano
+7.631767,45.059937,Parco Ruffini - Viale Luigi Hugues
+7.630343000000001,45.060318,Parco Ruffini - Corso Luigi D'Albertis
+7.634138,45.057278,Parco Ruffini - Sud Est
+7.630662000000001,45.058544,Parco Ruffini - Corso Carlo Piaggia
+7.623829000000001,45.040829,Via Paolo Gaidano / Via Edoardo Rubino
+7.681887000000001,45.074329,Via Milano / Via San Domenico
+7.678667000000001,45.07284500000001,Via Stampatori (Il Bis
+7.679018,45.072334,Piazza Università dei Mastri Minusieri
+7.666322,45.067398,Corso Vinzaglio
+7.662425,45.073643,Giardono Luigi Martin [FOMM]
+7.686748,45.068993,Via Cesare Batisti
+7.721221,45.06702,Piazza Guido Cavalcanti
+7.728193,45.071854,Corso Casale
+7.716951,45.094269,Piazza Sofia
+7.582074,45.07045,Segnaposto 171
+7.678656,45.072826,Via Stampatori (Il Bis
+7.675788,45.072567,Corso Giuseppe Siccardi
+7.685158,45.079487,Corso Giuglio Cesare
+7.690333,45.085407,Via Cardinale Gaetano Alimonda
+7.674296000000001,45.102406,Via Campiglia - Parco
+7.6637830000000005,45.055511,Corso Galileo Ferraris
+7.646152000000001,45.046928,Via Barletta / Piazza Santa Rita
+7.678997,45.077595,Anagrafe centrale / Via della Consolata
+7.679981000000001,45.06377,Piazza Carlo Felice
+7.651331,45.060986,Via Osasco
+7.651892,45.060047,Via Paolo Braccini
+7.656468000000001,45.061161,Corso Francesco Ferrucci
+7.642511000000001,45.025841,Via Amedeo Modigliani - Parco
+7.635463,45.054371,Corso Siracusa / Via Tirreno - Parco
+7.628499,45.056458,Via Tintoretto / Via Tirreno
+7.64911,45.06414,Via Muriaglio / Via Di Manni
+7.645182000000001,45.063187,Corso Racconigi / Via Pollenzo
+7.645175,45.066643,Corso Racconigi / Corso Peschiera
+7.6465570000000005,45.070396,Corso Racconigi / Via Frejus
+7.644583999999999,45.075294,Piazza Rivoli
+7.676892999999999,45.071487,Via Antonio Giuseppe Bertola / Piazza
+7.677174,45.071396,Via Antonio Giuseppe Bertola / Piazza
+7.681679999999999,45.0667,Piazza C.L.N.
+7.682034,45.066582,Piazza C.L.N.
+7.646798,45.024418,Segnaposto 196
+7.648048999999999,45.015858,Via Emanuele Artom
+7.657098999999999,45.017986,Corso Caio Plinio / Via Onorato Vigliani
+7.656921,45.019211000000006,Corso Caio Plinio
+7.6761930000000005,45.024109,Corso Moncalieri
+7.675727,45.062813,Via San Secondo / Via Magenta
+7.6214770000000005,45.079277,Via Pietro Cossa / Via Vittorio Actis
+7.6348970000000005,45.087124,Parco della Pellerina
+7.636044,45.095146,Via Pietro Cossa - Parco
+7.6360790000000005,45.095295,Via Pietro Cossa
+7.628412999999999,45.096416,Via Pietro Cossa
+7.633030000000001,45.098965,Parco [FA]
+7.634680000000001,45.10022,Parco Vallette - Area gioco [FLS]
+7.636069000000001,45.10342,Via delle Pervinche / Viale dei Mughetti [N]
+7.631567000000001,45.103504,Piazza Don G.Pollarolo [FA]
+7.631165,45.103832,Piazza Don G.Pollarolo [FOMM]
+7.630855,45.103867,Piazza E.Montale
+7.630380000000001,45.103607000000004,Piazza E.Montale [T]
+7.63032,45.103489,Piazza E.Montale
+7.633170000000001,45.103748,Piazzale Don G.Pollarolo - Area gioco [N]
+7.627399,45.100147,Parco Vallette - Area gioco - Via delle Primule [N]
+7.627632,45.099472,Parco Vallette - Area Cani [N]
+7.627586000000001,45.099335,Parco Vallette - Area Cani
+7.6269420000000006,45.099339,Parco Vallette - Area Cani
+7.626270000000001,45.09935800000001,Parco Vallette - Area Cani
+7.62484,45.104279,Via delle Primule / Viale dei Mughetti [N]
+7.644708999999999,45.100403,Corso Cincinnato / Corso Toscano [N]
+7.646576,45.100479,Giardino Felice Cavallotti / Corso Toscano [FLS]
+7.649275,45.099438,Corso Lombardia [FOMM]
+7.647187,45.096615,Corso Lonbardia 107 / Lucento Calcio [FOMM]
+7.645152999999999,45.096359,Corso Lombardia 105 / Pattinaggio Lombardia [FOMM]
+7.642063000000001,45.097462,Via Terraneo / Via Viarigi - Area gioco [N]
+7.641117,45.098335,Corso Cincinato 130
+7.642461,45.099239,Corso Cincinato / Via Val della Torre [T]
+7.641807,45.099236,Corso Cincinato / Via Val della Torre
+7.6400820000000005,45.099403,Cascina Bianco - Via Parenzo - Area gioco [N]
+7.664045,45.07613800000001,Corso Francia / Via Principi d'Acaja
+7.636077,45.076317,Corso Monte Grappa / Via Valgioie
+7.630004,45.083351,Corso Bernardino Telesio / Via Giovanni Servais
+7.674032,45.070942,Cittadella - Corso Gelileo Ferraris
+7.647013,45.079338,Via Brone / Via Giacomo Medici [FOMM]
+7.684603999999999,45.074192,Via della Basilicata / Via Porta Palatina - nel Parco
+7.63449,45.036152,Via Enrico Dandolo
+7.646613,45.033356,Corso Unione Sovietica / Corso Cosenza - Parco [FST]
+7.653791000000001,45.048359,Parco Cavalieri di Vittorio Veneto [FST]
+7.646616,45.033352,Corso Unione Sovietica / Corso Cosenza [FST]
+3.11209,81602661.44.00,Corso Monte Lungo [FA]
+7.656352,45.048611,Corso Monte Lungo [N] Rifornimento Camper
+7.656846000000001,45.0485,Corso Monte Lungo - Bocciofila La Baraonda
+7.663824,45.058475,Vicolo Crocetta - Piazzetta Cassini [N]
+7.635667,45.080299000000004,Giardino P.Coggiola [FOMM]
+7.656836000000001,45.075565,Piazza Lorenzo Bernini SE - Il Tris di Toret [N]
+7.656800999999999,45.075569,Piazza Lorenzo Bernini SE - Il Tris di Toret [N]
+7.656764000000001,45.075565,Piazza Lorenzo Bernini SE - Il Tris di Toret [N]
+7.652203,45.079308,Piazza Risorgimento SO
+7.653508999999999,45.079391,Piazza Risorgimento NE
+7.661684000000001,45.073616,Giardino Luigi Martiri
+7.683252,45.04689,Corso Federico Sclopis
+7.621619000000001,45.077152,Via Valgioie - Pattinaggio [FOMM]
+7.619739,45.0774,Segnaposto 202
+7.626761,45.08609,Corso Appio Claudio - Campo Barsket
+7.658405000000001,45.112278,Piazza Stampalia [FA]
+7.65923,45.111042,Via Caltanissetta - Bocciofila Aurora [N]
+7.659276,45.110168,Via Venaria [N]
+7.661266,45.10881,Via Brosso / Via Lanzo
+7.66313,45.106712,Via Ettore Stampini / Via Orbetello
+7.667158,45.100948,via Stradella [FA]
+7.667498,45.100574,via Stradella - il 7 [FOMM]
+7.667473,45.100559,via Stradella - il 7 [FOMM]
+7.667461,45.100536,via Stradella - il 7 [FOMM]
+7.667467,45.100513,via Stradella - il 7 [FOMM]
+7.667486,45.100494,via Stradella - il 7 [FOMM]
+7.667517999999999,45.100483,via Stradella - il 7 [FOMM]
+7.667548000000001,45.100483,via Stradella - il 7 [FOMM]
+7.667760000000001,45.100334,via Stradella - il 2 [FOMM]
+7.667777,45.100407,via Stradella - il 2 [FOMM]
+7.668276,45.099483,via Stradella / via Assisi - Nord [FOMM]
+7.668449,45.099335,via Stradella / via Assisi - Sud [FOMM]
+7.667597000000001,45.097996,Piazza Luigi Mattirolo [FOMM]
+7.669546,45.098873,Via Breglio [N]
+7.6705000000000005,45.097717,Via Stradella - Il Bis [FOMM]
+7.670512,45.09771,Via Stradella - Il Bis [FOMM]
+7.680487000000001,45.08746,Via Antonio Cecchi / Via Piossasco
+7.643459000000001,45.085041,Parco della Pellerina - ingresso Corso Appio Claudio
+1.10833,78305694.58.00,Via San Remo
+7.635273000000001,45.033829,Via Giacomo Dina
+7.716423000000001,45.072346,Piazza Enrico Toti [FST]
+7.715593000000001,45.07249500000001,Corso Chieti [N]
+7.683752000000001,45.079399,Via Goffredo Mameli / Via Vittorio Andreis [FOMM]
+7.67903,45.063309,Piazza Carlo Felice
+7.682981000000001,45.06757,Piazza San Carlo SubEst
+7.667906000000001,45.078453,Via Giambattista Balbis / Via San Donato
+7.627241,45.134663,VENERIA REALE - Via 20 Settembre / Via Andrea Mensa
+7.638615,45.128914,VENERIA REALE - PIAZZA B.ATZEI
+7.643045999999999,45.039139000000006,Piazza Carlo Montanari
+7.659506,45.039298,Via Erasmo da Rotterdam
+7.699302,45.069406,Via Santa Giulia
+7.682819000000001,45.072606,Piazza Corpus Domini
+7.685787,45.071374,Piazza Castello
+7.689575,45.098958,via Cigna 211
+7.619633,45.064499,Via Monginevro
+7.67362,45.044767,Piazza Graf
+7.679465,45.043513,Corso Galileo Galilei
+7.676509000000001,45.045795,Via Petiti
+7.673462,45.047349,Corso Dante
+7.678548999999999,45.058251,Piazza Saluzzo
+7.677644,45.056925,Corso Marconi - lato ovest
+7.678124,45.054201,Aiuola Donatello
+7.674958999999999,45.051324,Piazza Nizza
+7.684506999999999,45.051201,Parco del Valentino
+7.673639,45.04476900000001,Piazza Arturo Graf
+7.679785,45.043574,Corso Galileo Galilei
+7.676407,45.045741,Giardini di via Giuria
+7.673475,45.047297,Corso Dante angolo piazza De Amicis
+7.685417,45.052613,Parco del Valentino - viale Crivelli
+7.645725,45.000107,Nichelino - Via Primo Maggio
+7.697166000000001,45.072502,Corso Regina Margherita 52
+7.671112,45.042474000000006,Piazza Carducci
+7.639409,45.034559,Via De Canal
+7.639031,44.995470000000005,Nichelino - via Casalegno
+9.10978,79582553.06.00,Nichelino - via Trento
+7.660385,45.058815,Corso Duca / via Bove
