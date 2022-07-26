@@ -1,32 +1,33 @@
 import telebot
 from telebot import types
+from urllib.request import urlopen
+import requests
+import json
 
-FILENAME = 'turetmap.txt'
-
-API_TOKEN = 'Your Token'
-
+FILENAME = "<YOUR LINK API>"
+API_TOKEN = '<YOUR_TOKEN_API>'
 bot = telebot.TeleBot(API_TOKEN)
 
 def leggidati(file_name):
+    
     dati = []
+
     try:
-        turet_file = open(file_name, 'r')
+        turet_file = json.loads(requests.get(FILENAME).text)
     except:
-        print("errore file ")
-        
-    next(turet_file) #salto la prima riga
-    for line in turet_file:
-        line=line.strip().split(",")
+        print("errore file json")
+
+    dim=len(turet_file)
+    for i in range(dim):
         value=[]
-        lng=float(line[0])
+        lng=float(turet_file[i]['latlng']['longitude'])
         value.append(lng)
-        lan=float(line[1])
+        lan=float(turet_file[i]['latlng']['latitude'])
         value.append(lan)
-        nome=str(line[2])
+        nome=str(turet_file[i]['address'])
         value.append(nome)
         dati.append(value)
 
-    turet_file.close()
     return dati
 
 # Handle '/start' and '/help'
@@ -58,7 +59,6 @@ def echo_message(message):
  #la parte importante è la prima riga in cui devo specificicare il content_types=["location"]
 @bot.message_handler(content_types=["location"])
 def location_received(message):
-    print(message)
     bot.send_message(message.chat.id,"Posizione ricevuta")    
     searchnearturet(message.location.latitude, message.location.longitude,message)
 
