@@ -1,11 +1,12 @@
 import telebot
 from telebot import types
+from datetime import datetime
 from urllib.request import urlopen
 import requests
 import json
 
 FILENAME = "<YOUR LINK API>"
-API_TOKEN = '<YOUR_TOKEN_API>'
+API_TOKEN = '<YOUR TOKEN API>'
 bot = telebot.TeleBot(API_TOKEN)
 
 def leggidati(file_name):
@@ -59,6 +60,7 @@ def echo_message(message):
  #la parte importante è la prima riga in cui devo specificicare il content_types=["location"]
 @bot.message_handler(content_types=["location"])
 def location_received(message):
+    writefile(message.chat.username,message.date) #scrivo stats
     bot.send_message(message.chat.id,"Posizione ricevuta")    
     searchnearturet(message.location.latitude, message.location.longitude,message)
 
@@ -83,5 +85,13 @@ def mindistanceturet(dati,lat_current,lng_current):
             rmb=countrmb
         countrmb=countrmb+1
     return rmb
+
+#statitische: scrivo su un file chi e quando è stato utilizzato il bot
+def writefile(username,date):
+    with open("stat.txt", "a") as f:
+        date=int(date)
+        date=(datetime.utcfromtimestamp(date).strftime('%Y-%m-%d %H:%M:%S'))
+        f.write(username + " " + date)
+        f.write("\n")
 
 bot.polling()
