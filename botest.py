@@ -1,12 +1,11 @@
 import telebot
 from telebot import types
-from datetime import datetime
 from urllib.request import urlopen
 import requests
 import json
 
-FILENAME = "<YOUR LINK API>"
-API_TOKEN = '<YOUR TOKEN API>'
+FILENAME = ""
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 def leggidati(file_name):
@@ -32,7 +31,7 @@ def leggidati(file_name):
     return dati
 
 # Handle '/start' and '/help'
-@bot.message_handler(commands=['help', 'start'])
+@bot.message_handler(commands=['start'])
 def send_welcome(message):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     itembtn1 = types.KeyboardButton('Manda La tua posizione', request_location=True)
@@ -40,11 +39,6 @@ def send_welcome(message):
     bot.send_message(message.chat.id, """Se vi dicessimo che il simbolo di Torino non è la Mole Antonelliana, ma i toret? Cosa sono i "toret"? Ve lo sveliamo subito. 
     Si tratta delle tipiche fontanelle color verde bottiglia che come bocchettoni d’acqua hanno una testa di toro. Il torèt compare sempre più spesso nei negozi che promuovo i souvenir di Torino accanto ovviamente a quelli raffiguranti la Mole, il grande classico dei gadget.\
 """ ,reply_markup=markup)
-    sendphoto(message)
-    
-
-@bot.message_handler(commands=['photo'])
-def sendphoto(message):
     bot.send_photo(message.chat.id, 'https://i.pinimg.com/750x/f7/26/63/f726638483f45169631dcfa425261969.jpg')
     bot.reply_to(message, """\
 Ciao, per favore mandami la tua posizione per trovare il toret più vicino📍\
@@ -60,11 +54,9 @@ def echo_message(message):
  #la parte importante è la prima riga in cui devo specificicare il content_types=["location"]
 @bot.message_handler(content_types=["location"])
 def location_received(message):
-    writefile(message.chat.username,message.date) #scrivo stats
     bot.send_message(message.chat.id,"Posizione ricevuta")    
     searchnearturet(message.location.latitude, message.location.longitude,message)
 
-@bot.message_handler(content_types=["location"])
 def searchnearturet(lat_current,lng_current,message):
     dati=leggidati(FILENAME)
     rmb=mindistanceturet(dati,lat_current,lng_current)
@@ -85,13 +77,5 @@ def mindistanceturet(dati,lat_current,lng_current):
             rmb=countrmb
         countrmb=countrmb+1
     return rmb
-
-#statitische: scrivo su un file chi e quando è stato utilizzato il bot
-def writefile(username,date):
-    with open("stat.txt", "a") as f:
-        date=int(date)
-        date=(datetime.utcfromtimestamp(date).strftime('%Y-%m-%d %H:%M:%S'))
-        f.write(username + " " + date)
-        f.write("\n")
 
 bot.polling()
