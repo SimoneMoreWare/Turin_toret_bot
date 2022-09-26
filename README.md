@@ -1,6 +1,6 @@
 # Turin_toret_bot
 
-Un semplice bot telegram che ti permette di trovare, mandando la tua posizione, qual è il toret (fontanella)più vicino
+Un semplice bot telegram che ti permette di trovare, mandando la tua posizione, qual è il toret (fontanella) più vicino.
 
 # Link e descrizione al bot telegram
 
