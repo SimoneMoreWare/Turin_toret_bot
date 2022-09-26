@@ -8,7 +8,7 @@ import json
 
 
 FILENAME = ""
-API_TOKEN = ':'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 totalmap_string="Mappa completa dei toret"
 def leggidati(file_name):
@@ -43,7 +43,7 @@ def send_welcome(message):
     markup.add(itembtn1,itembtn2,itembtn3)
     #print(message)
     username=str(message.from_user.first_name)
-    bot.send_message(message.chat.id,"Ciao "+username+", benvenuto al turin toret bot")
+    bot.send_message(message.chat.id,"Ciao "+username+", benvenuto al turin toret bot",reply_markup=markup)
     bot.send_message(message.chat.id, """Se vi dicessimo che il simbolo di Torino non è la Mole Antonelliana, ma i toret? Cosa sono i "toret"? Ve lo sveliamo subito. 
     Si tratta delle tipiche fontanelle color verde bottiglia che come bocchettoni d’acqua hanno una testa di toro. Il torèt compare sempre più spesso nei negozi che promuovo i souvenir di Torino accanto ovviamente a quelli raffiguranti la Mole, il grande classico dei gadget.\
 """)
