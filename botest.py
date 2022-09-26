@@ -12,14 +12,11 @@ API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 totalmap_string="Mappa completa dei toret"
 def leggidati(file_name):
-    
     dati = []
-
     try:
         fountains_file = json.loads(requests.get(FILENAME).text)
     except:
         print("errore file json")
-
     dim=len(fountains_file)
     for i in range(dim):
         value=[]
@@ -30,7 +27,6 @@ def leggidati(file_name):
         name=str(fountains_file[i]['address'])
         value.append(name)
         dati.append(value)
-
     return dati
 
 # Handle '/start'
