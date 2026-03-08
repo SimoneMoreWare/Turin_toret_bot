@@ -7,8 +7,10 @@ import requests
 import json
 
 
-FILENAME = ""
-API_TOKEN = ''
+import os
+
+FILENAME = os.environ.get("FILENAME")
+API_TOKEN = os.environ.get("API_TOKEN")
 bot = telebot.TeleBot(API_TOKEN)
 totalmap_string="Mappa completa dei toret"
 def leggidati(file_name):
